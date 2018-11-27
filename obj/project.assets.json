@@ -12875,11 +12875,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Manoj\\Projects\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "D:\\Manoj\\Projects\\MyProjects\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "D:\\Manoj\\Projects\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectPath": "D:\\Manoj\\Projects\\MyProjects\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "packagesPath": "C:\\Users\\thinksysuser\\.nuget\\packages\\",
-      "outputPath": "D:\\Manoj\\Projects\\RazorPagesMovie\\obj\\",
+      "outputPath": "D:\\Manoj\\Projects\\MyProjects\\RazorPagesMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

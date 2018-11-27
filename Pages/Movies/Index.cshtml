@@ -1,5 +1,5 @@
 @page
-@model RazorPagesMovie.Pages.Movies.IndexModel
+@model RazorPagesMovie.Pages.Movies.IndexModel;
 
 @{
     ViewData["Title"] = "Index";
@@ -32,7 +32,7 @@
 @foreach (var item in Model.Movie) {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.Title)
+                @Html.DisplayFor(modelItem=>item.Title)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.ReleaseDate)
