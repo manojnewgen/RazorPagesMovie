@@ -8,7 +8,7 @@ namespace RazorPagesMovie.Pages
 {
     public class AboutModel : PageModel
     {
-    // hello web hook
+    // hello web hook there
         public string Message { get; set; }
 
         public void OnGet()
